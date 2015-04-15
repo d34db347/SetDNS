@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetDNS</string>
+    <string name="DNS1">DNS1</string>
+    <string name="DNS2">DNS2</string>
+    <string name="DNS1string">DNS1</string>
+    <string name="DNS2string">DNS2</string>
+    <string name="OKButton">OK</string>
+    <string name="RestoreButton">Restore to DHCP</string>
+</resources>
